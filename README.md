@@ -11,9 +11,9 @@ This is to be used to learn Git-based development.
 ## What you need
 
 · A Laptop
-· An Internet
-· Power
+· An Internet connection
+· Power supply
 
-### Head 3
+# Addictions
 
-#### Head 4
+This sentence was written on the local machine.
